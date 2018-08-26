@@ -1,1 +1,6 @@
-thisis java code
+java oops concepts
+encapsulation
+inheritance
+abstraction
+polymorphism
+
